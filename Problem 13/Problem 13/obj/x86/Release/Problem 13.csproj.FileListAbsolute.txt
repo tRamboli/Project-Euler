@@ -1,0 +1,5 @@
+D:\Projects\Project Euler\Problem 13\Problem 13\bin\Release\Problem 13.exe
+D:\Projects\Project Euler\Problem 13\Problem 13\bin\Release\Problem 13.pdb
+D:\Projects\Project Euler\Problem 13\Problem 13\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Project Euler\Problem 13\Problem 13\obj\x86\Release\Problem 13.exe
+D:\Projects\Project Euler\Problem 13\Problem 13\obj\x86\Release\Problem 13.pdb

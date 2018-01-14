@@ -1,0 +1,10 @@
+I:\פרוייקטים\Project Euler\Problem 30\Problem 30\bin\Debug\Problem 30.exe
+I:\פרוייקטים\Project Euler\Problem 30\Problem 30\bin\Debug\Problem 30.pdb
+I:\פרוייקטים\Project Euler\Problem 30\Problem 30\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\פרוייקטים\Project Euler\Problem 30\Problem 30\obj\x86\Debug\Problem 30.exe
+I:\פרוייקטים\Project Euler\Problem 30\Problem 30\obj\x86\Debug\Problem 30.pdb
+O:\OneDrive\Project Euler\Problem 30\Problem 30\obj\x86\Debug\Problem 30.exe
+O:\OneDrive\Project Euler\Problem 30\Problem 30\obj\x86\Debug\Problem 30.pdb
+O:\OneDrive\Project Euler\Problem 30\Problem 30\bin\Debug\Problem 30.exe
+O:\OneDrive\Project Euler\Problem 30\Problem 30\bin\Debug\Problem 30.pdb
+O:\OneDrive\Project Euler\Problem 30\Problem 30\obj\x86\Debug\Problem 30.csprojResolveAssemblyReference.cache

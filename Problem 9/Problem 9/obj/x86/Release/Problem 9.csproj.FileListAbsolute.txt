@@ -1,0 +1,5 @@
+D:\Projects\Project Euler\Problem 9\Problem 9\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Project Euler\Problem 9\Problem 9\bin\Release\Problem 9.exe
+D:\Projects\Project Euler\Problem 9\Problem 9\bin\Release\Problem 9.pdb
+D:\Projects\Project Euler\Problem 9\Problem 9\obj\x86\Release\Problem 9.exe
+D:\Projects\Project Euler\Problem 9\Problem 9\obj\x86\Release\Problem 9.pdb

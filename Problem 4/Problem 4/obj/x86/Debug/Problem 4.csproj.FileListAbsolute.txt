@@ -1,0 +1,10 @@
+I:\פרוייקטים\Project Euler\Problem 4\Problem 4\bin\Debug\Problem 4.exe
+I:\פרוייקטים\Project Euler\Problem 4\Problem 4\bin\Debug\Problem 4.pdb
+I:\פרוייקטים\Project Euler\Problem 4\Problem 4\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\פרוייקטים\Project Euler\Problem 4\Problem 4\obj\x86\Debug\Problem 4.exe
+I:\פרוייקטים\Project Euler\Problem 4\Problem 4\obj\x86\Debug\Problem 4.pdb
+O:\OneDrive\Project Euler\Problem 4\Problem 4\obj\x86\Debug\Problem 4.exe
+O:\OneDrive\Project Euler\Problem 4\Problem 4\obj\x86\Debug\Problem 4.pdb
+O:\OneDrive\Project Euler\Problem 4\Problem 4\bin\Debug\Problem 4.exe
+O:\OneDrive\Project Euler\Problem 4\Problem 4\bin\Debug\Problem 4.pdb
+O:\OneDrive\Project Euler\Problem 4\Problem 4\obj\x86\Debug\Problem 4.csprojResolveAssemblyReference.cache

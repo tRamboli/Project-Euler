@@ -1,0 +1,5 @@
+I:\פרוייקטים\Project Euler\Problem 3\Problem 3\bin\Debug\Problem 3.exe
+I:\פרוייקטים\Project Euler\Problem 3\Problem 3\bin\Debug\Problem 3.pdb
+I:\פרוייקטים\Project Euler\Problem 3\Problem 3\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\פרוייקטים\Project Euler\Problem 3\Problem 3\obj\x86\Debug\Problem 3.exe
+I:\פרוייקטים\Project Euler\Problem 3\Problem 3\obj\x86\Debug\Problem 3.pdb

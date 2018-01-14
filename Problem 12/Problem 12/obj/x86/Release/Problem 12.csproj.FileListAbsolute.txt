@@ -1,0 +1,8 @@
+D:\Projects\Project Euler\Problem 12\Problem 12\bin\Release\Problem 12.exe
+D:\Projects\Project Euler\Problem 12\Problem 12\bin\Release\Problem 12.pdb
+D:\Projects\Project Euler\Problem 12\Problem 12\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Project Euler\Problem 12\Problem 12\obj\x86\Release\Problem 12.exe
+D:\Projects\Project Euler\Problem 12\Problem 12\obj\x86\Release\Problem 12.pdb
+I:\פרוייקטים\Project Euler\Problem 12\Problem 12\obj\x86\Release\Problem 12.exe
+I:\פרוייקטים\Project Euler\Problem 12\Problem 12\obj\x86\Release\Problem 12.pdb
+I:\פרוייקטים\Project Euler\Problem 12\Problem 12\obj\x86\Release\ResolveAssemblyReference.cache
